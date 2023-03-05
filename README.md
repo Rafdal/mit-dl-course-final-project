@@ -6,3 +6,4 @@ El objetivo del proyecto es crear un modelo de deep learning para resolver un po
 Para este proyecto he elegido como problematica, la determinacion automatizada de la calidad de productos citricos, especificamente de limones (fruta sin procesar).
 
 <img src="https://raw.githubusercontent.com/Rafdal/mit-dl-course-final-project/main/portada_tp_mit_dl.png" alt="Sampled data plot"/>
+*La imagen es ilustrativa*
