@@ -8,8 +8,6 @@ Resultados:
 | Validation | 99.4% |
 | Test | 99.8% |
 
-Este repositorio contiene [los archivos de mi proyecto final](https://github.com/Rafdal/mit-dl-course-final-project/blob/main/mit_proyecto_final_rdalzotto.ipynb) para el curso de Deep Learning del MIT xPRO
-
 *Portada ilustrativa*
 <img src="https://raw.githubusercontent.com/Rafdal/mit-dl-course-final-project/main/portada_tp_mit_dl.png"/>
 
